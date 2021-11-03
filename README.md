@@ -10,5 +10,7 @@ To update you need to:
 6) Grab new sha256<img width="982" alt="scrawford_scrawford___scott_coding_felix" src="https://user-images.githubusercontent.com/8398867/127406723-2c00b8d0-ed94-4746-9db4-098af079ce5b.png">
 7) commit and push your changes up to this repo
 
+```sh
 brew tap felix-cli/felix
 brew install felix
+```
