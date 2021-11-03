@@ -4,8 +4,8 @@
 class Felix < Formula
   desc "Felix is a CLI to quickly create golang services"
   homepage "https://github.com/felix-cli/felix"
-  url "https://github.com/felix-cli/felix/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "c6086c3397518ed27076f65bdbaefc8f1c90647fa59651adcac94e5c6b0db33b"
+  url "https://github.com/felix-cli/felix/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "5cc382622392faac18a3fa75342b81ac8a527e65ef1f2a59c482cf249ca93dfc"
   license "Apache-2.0"
 
   depends_on "go" => :build
