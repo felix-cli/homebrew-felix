@@ -4,6 +4,7 @@
 class Felix < Formula
   desc "Felix is a CLI to quickly create golang services"
   homepage "https://github.com/felix-cli/felix"
+  head "https://github.com/felix-cli/felix", using: :git
   url "https://github.com/felix-cli/felix.git",
     using: :git,
     tag: "v0.1.6",
